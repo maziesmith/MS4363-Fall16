@@ -34,7 +34,7 @@ Using Github, select the branch icon. In the dropdown, enter your branch name. I
 Once you have created a branch, you can start coding. Once you finish what you're working on, you make sure it works locally, then `Commit` it to your feature branch. Once somebody else confirms it works, we can pull the feature into `Master`. Rinse and repeat.
 
 ## Continuous Deployment
-This repository has been set up to automatically sync the `Master` branch to a Microsoft Azure web app. The URL for it is: http://msis4363-fall2016.azurewebsites.net/
+ This repository has been set up to automatically sync the `Master` branch to a Microsoft Azure web app. The URL for it is: http://msis4363-fall2016.azurewebsites.net/
 
 
 
