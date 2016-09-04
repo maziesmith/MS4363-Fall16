@@ -3,7 +3,10 @@ Group Project for Oklahoma State MS4363
 
 ## Getting Started
 First things first, get your development environment set up:<br>
-* Download [Visual Studio Community 2015](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) or ensure you're at least at VS2015 Update 3.
+* Download [Visual Studio Community 2015](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
+*  Go to https://www.microsoft.com/net/core#windows and from that page click the two links to:
+ * Download VS2015 Update 3
+ * Download .NET Core
 * Install [Git Command Line](https://git-for-windows.github.io/) or [GUI version](https://desktop.github.com/)
   * Recommend the latter if this is your first time using Git
 * Install [Visual Studio Github extension](https://visualstudio.github.com/)
