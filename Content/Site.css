@@ -185,3 +185,14 @@ textarea {
     display: block;
     margin: 0 auto;
 }
+.frontPageButtons {
+    margin: 50px 0 80px;
+}
+.frontPageButtons .btn {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.frontPageButtons .btn span {
+    font-size: 14px;
+    display: block;
+}
