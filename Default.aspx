@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="row">
         <div class="col-md-9">
-            <h1>Graduate Portal</h1>
+            <h1>OSU Graduate Portal</h1>
             <p>Welcome to Oklahoma State University graduate program online application. You can complete your application by following these simple steps:</p>
             <ol>
                 <li>Create a new website account</li>
