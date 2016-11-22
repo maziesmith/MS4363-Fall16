@@ -43,7 +43,7 @@
                 <div id="sidebar-wrapper">
                     <asp:Image runat="server" ImageUrl="~/Images/logo-banner.png" AlternateText="OSU Logo" CssClass="logo"/>
                     <ul class="sidebar-nav">
-                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/">Home Page</a></li>
                         <asp:LoginView runat="server" ViewStateMode="Disabled">
                             <AnonymousTemplate>
                                <li><a runat="server" href="~/Account/Register">Register</a></li>
